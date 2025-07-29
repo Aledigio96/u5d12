@@ -1,7 +1,7 @@
-package digiovannialessandro.u5d11.ecxeptions;
+package digiovannialessandro.u5d12.ecxeptions;
 
-import digiovannialessandro.u5d11.payloads.ErrorsDTO;
-import digiovannialessandro.u5d11.payloads.ErrorsWithListDTO;
+import digiovannialessandro.u5d12.payloads.ErrorsDTO;
+import digiovannialessandro.u5d12.payloads.ErrorsWithListDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;

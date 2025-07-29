@@ -1,4 +1,4 @@
-package digiovannialessandro.u5d11.payloads;
+package digiovannialessandro.u5d12.payloads;
 
 public record RespViaggiDTO(
         int id

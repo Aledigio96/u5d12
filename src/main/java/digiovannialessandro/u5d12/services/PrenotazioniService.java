@@ -1,14 +1,14 @@
-package digiovannialessandro.u5d11.services;
+package digiovannialessandro.u5d12.services;
 
-import digiovannialessandro.u5d11.ecxeptions.BadRequestException;
-import digiovannialessandro.u5d11.ecxeptions.NotFoundException;
-import digiovannialessandro.u5d11.entities.Dipendente;
-import digiovannialessandro.u5d11.entities.Prenotazione;
-import digiovannialessandro.u5d11.entities.Viaggio;
-import digiovannialessandro.u5d11.payloads.PrenotazioniPayload;
-import digiovannialessandro.u5d11.repositories.DipendentiRepository;
-import digiovannialessandro.u5d11.repositories.PrenotazioniRepository;
-import digiovannialessandro.u5d11.repositories.ViaggiRepository;
+import digiovannialessandro.u5d12.ecxeptions.BadRequestException;
+import digiovannialessandro.u5d12.ecxeptions.NotFoundException;
+import digiovannialessandro.u5d12.entities.Dipendente;
+import digiovannialessandro.u5d12.entities.Prenotazione;
+import digiovannialessandro.u5d12.entities.Viaggio;
+import digiovannialessandro.u5d12.payloads.PrenotazioniPayload;
+import digiovannialessandro.u5d12.repositories.DipendentiRepository;
+import digiovannialessandro.u5d12.repositories.PrenotazioniRepository;
+import digiovannialessandro.u5d12.repositories.ViaggiRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

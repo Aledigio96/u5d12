@@ -1,13 +1,13 @@
-package digiovannialessandro.u5d11.controllers;
+package digiovannialessandro.u5d12.controllers;
 
-import digiovannialessandro.u5d11.ecxeptions.ValidationException;
-import digiovannialessandro.u5d11.entities.Dipendente;
-import digiovannialessandro.u5d11.entities.Prenotazione;
-import digiovannialessandro.u5d11.payloads.DipendentiPayload;
-import digiovannialessandro.u5d11.payloads.PrenotazioniPayload;
-import digiovannialessandro.u5d11.payloads.RespDipendentiDTO;
-import digiovannialessandro.u5d11.payloads.RespPrenotazioniDTO;
-import digiovannialessandro.u5d11.services.PrenotazioniService;
+import digiovannialessandro.u5d12.ecxeptions.ValidationException;
+
+import digiovannialessandro.u5d12.entities.Prenotazione;
+
+import digiovannialessandro.u5d12.payloads.PrenotazioniPayload;
+
+import digiovannialessandro.u5d12.payloads.RespPrenotazioniDTO;
+import digiovannialessandro.u5d12.services.PrenotazioniService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;

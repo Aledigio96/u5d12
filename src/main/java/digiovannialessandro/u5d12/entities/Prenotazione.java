@@ -1,4 +1,4 @@
-package digiovannialessandro.u5d11.entities;
+package digiovannialessandro.u5d12.entities;
 
 import jakarta.persistence.*;
 

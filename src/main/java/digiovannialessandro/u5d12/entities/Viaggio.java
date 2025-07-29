@@ -1,6 +1,6 @@
-package digiovannialessandro.u5d11.entities;
+package digiovannialessandro.u5d12.entities;
 
-import digiovannialessandro.u5d11.enums.Stato;
+import digiovannialessandro.u5d12.enums.Stato;
 import jakarta.persistence.*;
 
 import java.time.LocalDate;

@@ -1,10 +1,10 @@
-package digiovannialessandro.u5d11.controllers;
+package digiovannialessandro.u5d12.controllers;
 
-import digiovannialessandro.u5d11.ecxeptions.ValidationException;
-import digiovannialessandro.u5d11.entities.Viaggio;
-import digiovannialessandro.u5d11.enums.Stato;
-import digiovannialessandro.u5d11.payloads.ViaggiPayload;
-import digiovannialessandro.u5d11.services.ViaggiService;
+import digiovannialessandro.u5d12.ecxeptions.ValidationException;
+import digiovannialessandro.u5d12.entities.Viaggio;
+import digiovannialessandro.u5d12.enums.Stato;
+import digiovannialessandro.u5d12.payloads.ViaggiPayload;
+import digiovannialessandro.u5d12.services.ViaggiService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;

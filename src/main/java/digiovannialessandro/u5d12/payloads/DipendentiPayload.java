@@ -1,4 +1,4 @@
-package digiovannialessandro.u5d11.payloads;
+package digiovannialessandro.u5d12.payloads;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotEmpty;

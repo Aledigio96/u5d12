@@ -1,4 +1,4 @@
-package digiovannialessandro.u5d11.ecxeptions;
+package digiovannialessandro.u5d12.ecxeptions;
 
 public class NotFoundException extends RuntimeException {
     public NotFoundException(Integer id) {

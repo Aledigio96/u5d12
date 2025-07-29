@@ -1,6 +1,6 @@
-package digiovannialessandro.u5d11.repositories;
+package digiovannialessandro.u5d12.repositories;
 
-import digiovannialessandro.u5d11.entities.Dipendente;
+import digiovannialessandro.u5d12.entities.Dipendente;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

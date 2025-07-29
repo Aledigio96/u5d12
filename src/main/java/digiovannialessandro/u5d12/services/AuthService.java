@@ -1,9 +1,9 @@
-package digiovannialessandro.u5d11.services;
+package digiovannialessandro.u5d12.services;
 
-import digiovannialessandro.u5d11.configurations.JWTConfig;
-import digiovannialessandro.u5d11.ecxeptions.UnauthorizedException;
-import digiovannialessandro.u5d11.entities.Dipendente;
-import digiovannialessandro.u5d11.payloads.DipendenteLoginDTO;
+import digiovannialessandro.u5d12.configurations.JWTConfig;
+import digiovannialessandro.u5d12.ecxeptions.UnauthorizedException;
+import digiovannialessandro.u5d12.entities.Dipendente;
+import digiovannialessandro.u5d12.payloads.DipendenteLoginDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

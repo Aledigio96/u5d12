@@ -1,6 +1,6 @@
-package digiovannialessandro.u5d11.payloads;
+package digiovannialessandro.u5d12.payloads;
 
-import digiovannialessandro.u5d11.enums.Stato;
+import digiovannialessandro.u5d12.enums.Stato;
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;
